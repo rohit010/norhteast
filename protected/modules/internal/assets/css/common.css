@@ -1,0 +1,59 @@
+	/**********************************
+
+Name: cmxform Styles
+
+***********************************/
+
+#lead_mange_folter {
+	padding: 5px;	
+	float: left;
+	margin:0px;
+	width: 100%;
+	background-color: #CCC;
+}
+.manage_data {
+	font-family: Arial;
+	font-size: 12px;
+    float: left;
+    width: 100%;
+}
+.form_increase_width{
+	padding: 0px!important;
+}
+#assign_leads table{
+	margin: 0px;
+}
+#assign_leads .modal-footer{
+	margin: 0px;
+}
+#progressbar {
+	float: left;
+	width: 60%;
+	display: none;
+}
+.errorSummary{
+	color: #9E0404;
+}
+
+#pagination {
+	float:right;
+	margin-right: 12px;
+	height: 35px;
+	margin-bottom: 25px;
+}
+
+#pagination span {
+	line-height: 35px;
+	font-size: 13px;
+	float: left;
+	padding: 0px 10px 0px 0px;
+}
+#pagination ul {
+	margin: 0px;
+	float: left;
+}
+
+#LeadDetails{
+	font-family: Arial;
+	font-size: 12px;
+}

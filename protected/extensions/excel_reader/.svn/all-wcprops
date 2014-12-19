@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/northeastproperties/!svn/ver/32/trunk/protected/extensions/excel_reader
+END
+example.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/northeastproperties/!svn/ver/32/trunk/protected/extensions/excel_reader/example.php
+END
+sample.xls
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/northeastproperties/!svn/ver/32/trunk/protected/extensions/excel_reader/sample.xls
+END
+reader.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/northeastproperties/!svn/ver/32/trunk/protected/extensions/excel_reader/reader.php
+END
+oleread.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/northeastproperties/!svn/ver/32/trunk/protected/extensions/excel_reader/oleread.inc
+END
