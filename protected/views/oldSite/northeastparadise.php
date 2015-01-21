@@ -308,7 +308,7 @@
                   <tbody><tr>
                     <td class="heading3">View &amp; Download </td>
                     <td width="10"></td>
-                    <td align="center"><a href="http://www.northeastproperties.in/masterplan/bodguru-plan050912.pdf" target="_blank"><img src="<?php echo $this->assetsBase; ?>/old_site_integration/images/thumb_pdficon.png.gif" width="16" height="16" border="0"></a></td>
+                    <td align="center"><a href="http://www.northeastproperties.in/masterplan/Key plan.pdf" target="_blank"><img src="<?php echo $this->assetsBase; ?>/old_site_integration/images/thumb_pdficon.png.gif" width="16" height="16" border="0"></a></td>
                     <td width="10" align="center"></td>
                     <td align="center"><a href="http://www.northeastproperties.in/masterplan/NEParadise_2phase.pdf" target="_blank"><img src="<?php echo $this->assetsBase; ?>/old_site_integration/images/thumb_pdficon.png.gif" width="16" height="16" border="0"></a></td>
                     <td width="10"></td>
@@ -319,7 +319,7 @@
                   <tr>
                     <td class="txt1"></td>
                     <td></td>
-                    <td><span class="txt1">Full Master Plan</span></td>
+                    <td><span class="txt1">Northerast Property's Paradise Master Plan</span></td>
                     <td width="10"></td>
                     <td align="center"><span class="txt1">Phase 2</span></td>
                     <td></td>
@@ -351,7 +351,7 @@
                 <td height="10"></td>
               </tr>
               <tr>
-                <td class="txt"><img src="<?php echo $this->assetsBase; ?>/old_site_integration/images/routemap_paradise.jpg" width="850" height="409"></td>
+                <td class="txt"><img src="<?php echo $this->assetsBase; ?>/old_site_integration/images/route map.jpg" width="850" height="409"></td>
               </tr>
             </tbody></table></td>
           </tr>

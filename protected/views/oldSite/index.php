@@ -292,6 +292,8 @@ $(document).ready(function() {
                                     <td height="123" bgcolor="#ffffff" class="txt">
                                     	<div class="news_scroller">
 										    <div class="newsitems" style="position: relative; top: 56px;">
+ 										    <div class="news_item">Proposed Club house plans by Northeast Properties  <a href="/masterplan/Club house 1.pdf">(GF)</a></div>
+ 										    <div class="news_item">Proposed Club house plans by Northeast Properties  <a href="/masterplan/Clubhouse 2.pdf">(FF)</a></div>
 										        <div class="news_item">Grand launch of Blossom on the eve of deepawali 2014...</div>
 										        <div class="news_item">50 acre gated villa plots measuring 1200 , 1500, 2400... sizes</div>
 										        <div class="news_item">North-East Pradise Sold Out</div>
@@ -421,7 +423,7 @@ $(document).ready(function() {
                                 <td width="20"></td>
                                 <td><img src="<?php echo $this->assetsBase; ?>/old_site_integration/images/a-reader_logo.png" width="31" height="31"></td>
                                 <td width="10"></td>
-                                <td><a href="http://www.northeastproperties.in/Flyer.pdf" target="_blank"><img src="<?php echo $this->assetsBase; ?>/old_site_integration/images/download.png" width="92" height="14" border="0"></a></td>
+                                <td><a href="/masterplan/new_flayer.pdf" target="_blank"><img src="<?php echo $this->assetsBase; ?>/old_site_integration/images/download.png" width="92" height="14" border="0"></a></td>
                                 <td width="25"></td>
                                 <td><img src="<?php echo $this->assetsBase; ?>/old_site_integration/images/catalogue.gif" width="78" height="56"></td>
                                 <td width="20"></td>
@@ -471,12 +473,12 @@ Bengaluru - 560 032.</td>
                                           <tbody><tr>
                                             <td>Phone</td>
                                             <td width="20" align="center">:</td>
-                                            <td> +91 9448076803 </td>
+                                            <td> +91 9448076803 <br/> +919242201222 </td>
                                           </tr>
                                           <tr>
                                             <td></td>
                                             <td width="20" align="center">:</td>
-                                            <td>Anil S. Katti Sr.G M & CEO <br>(+91 80 41717550 / 41566824)</td>
+                                            <td>Anil S. Katti Sr.G M & CEO <br>(+91 80 41717550 )</td>
                                           </tr>
                                           <tr>
                                             <td height="3"></td>

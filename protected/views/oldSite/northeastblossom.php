@@ -266,8 +266,9 @@
                   </tr>
                   <tr>
                     <td valign="top" class="txt"><ul>
-                      <li>50 acre gated villa plots measuring 1200 , 1500, 2400... sizes.</li>
-					  <li>15 min drive from BIA..nearing Jangamakote Circle, nearing SEZ Nandagudi Tadoor Village  boundary,Hoskote -- Shidlagatta state highway</li>
+                      <li>50 acre gated villa plots measuring 1200 , 1500, 2400... sizes within the village boundaries of Nallenahalli, Nadipinayakanhalli and Tadur.</li>
+					  <li>15 min drive from BIA..nearing Jangamakote Circle, nearing SEZ Nandagudi, Hoskote to Shidlagatta state highway.</li>
+					  <li>Starts by Rs. 450/- and 500/- per Sqft </li>
                     </ul></td>
                     <td width="20"></td>
                     <td valign="top" class="txt"><ul><li>Clear Title</li>
@@ -299,7 +300,8 @@
               <tr>
                 <td height="20" align="right"><table border="0" cellspacing="0" cellpadding="0">
                   <tbody><tr>
-                    <td class="txt1">Download Full Plan </td>
+                    <td class="txt1"> 1
+                     Full Plan </td>
                     <td width="5"></td>
                     <td><a href="/masterplan/THADURLAYOUT PLAN-.pdf" target="_blank"><img src="<?php echo $this->assetsBase; ?>/old_site_integration/images/thumb_pdficon.png.gif" width="16" height="16" border="0"></a></td>
                     <td width="5"></td>
@@ -310,6 +312,15 @@
                     <td class="txt1">Download 2nd Phase Plan </td>
                     <td width="5"></td>
                     <td><a href="/masterplan/THADURLAYOUT PLAN-14-10-2014-1.pdf" target="_blank"><img src="<?php echo $this->assetsBase; ?>/old_site_integration/images/thumb_pdficon.png.gif" width="16" height="16" border="0"></a></td>
+                     <td width="5"></td>
+                    <td class="txt1">Download 3rd Phase Plan </td>
+                    <td width="5"></td>
+                    <td><a href="/masterplan/THADURLAYOUT PLAN-19-12-2014 Model.pdf" target="_blank"><img src="<?php echo $this->assetsBase; ?>/old_site_integration/images/thumb_pdficon.png.gif" width="16" height="16" border="0"></a></td>
+                    
+                    <td width="5"></td>
+                    <td class="txt1">Download 4th Phase Plan </td>
+                    <td width="5"></td>
+                    <td><a href="/masterplan/NALLENAHALLI -NAGAMANGA.pdf" target="_blank"><img src="<?php echo $this->assetsBase; ?>/old_site_integration/images/thumb_pdficon.png.gif" width="16" height="16" border="0"></a></td>
                     <td width="10"></td>
 <!--                    <td class="txt1">Download Full Master Plans </td>
                     <td width="5"></td>
@@ -318,7 +329,7 @@
                 </tbody></table></td>
               </tr>
               <tr>
-                <td><img src="<?php echo $this->assetsBase; ?>/old_site_integration/images/leaflet.jpg" width="850" height="1261"></td>
+                <td><img src="<?php echo $this->assetsBase; ?>/old_site_integration/images/new proof 2.jpg" width="850" height="1261"></td>
               </tr>
             </tbody></table></td>
           </tr>

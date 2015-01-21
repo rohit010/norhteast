@@ -274,8 +274,8 @@
 					 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Part -2 -Rs 850/-Psqft <br/>
 					&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   Part -3 -Rs 950/-Psqft.
 					</li>
-					<li>Phase - 4:   Rs. 550/- Psqft.</li>
-					<li>Phase - 5:   Rs. 600/- Psqft</li>
+					<li>Phase - 4:   Rs. 600/- Psqft.</li>
+					<li>Phase - 5:   Rs. 650/- Psqft</li>
                     </ul></td>
                     <td width="20"></td>
                     <td valign="top" class="txt"><ul><li>Clear Title</li>
